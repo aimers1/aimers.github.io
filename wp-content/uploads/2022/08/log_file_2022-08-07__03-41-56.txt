@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Sport were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = E:\xampp\htdocs\wordpress/wp-content/uploads/2022/08/demo-content-import-file_2022-08-07__03-41-56.xml
+Widget file = E:\xampp\htdocs\wordpress/wp-content/uploads/2022/08/demo-widgets-import-file_2022-08-07__03-41-56.json
+Customizer file = E:\xampp\htdocs\wordpress/wp-content/uploads/2022/08/demo-customizer-import-file_2022-08-07__03-41-56.dat
+
+------
+Completed AJAX call number: 1
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+AFTA Trending News - No Title - Imported
+AFTA Social Contacts - No Title - Imported
+AFTA Post Double Columns - No Title - Imported
+
+Front-page Content Section : 
+
+AFTA Posts Slider - No Title - Imported
+AFTA Post Single Column - No Title - Imported
+AFTA Post Double Columns - No Title - Imported
+
+Front-page Sidebar Section : 
+
+AFTA Post Double Columns - No Title - Imported
+AFTA Social Contacts - No Title - Imported
+
+Footer First Section : 
+
+Recent Posts - No Title - Imported
+
+Footer Second Section : 
+
+Search - No Title - Imported
+Calendar - No Title - Imported
+
+Footer Third Section : 
+
+Categories - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---af-companion/after_import---
+
